@@ -7,3 +7,4 @@ node_modules/
 cloudinary_python.txt
 >>>>>>> ec50dcada22d690b321825cbb928d3c503598998
 *.sqlite3
+env.py
